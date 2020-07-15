@@ -4,7 +4,8 @@
   <remote name="github"
           fetch="https://github.com/intel-secl/" />
 
-  <default remote="github"
+  <default revision="master"
+           remote="github"
            sync-c="true"
            sync-j="16" />
 

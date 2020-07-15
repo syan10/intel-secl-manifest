@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <project path="tpm-provider" name="tpm-provider" />
+  <project path="tpm-provider" name="tpm-provider" remote="github" />
 
 </manifest>
