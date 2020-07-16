@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+	<project path="tpm-provider" name="tpm-provider" remote="github" />
+	<project path="authservice" name="authservice" remote="github" />
+	<project path="go-trustagent" name="go-trustagent" remote="github" />
+	<project path="verification-service" name="verification-service" remote="github" />
+	<project path="workload-service" name="workload-service" remote="github" />
+	<project path="lib-host-connector" name="lib-host-connector" remote="github" />
+	<project path="attestation-hub" name="attestation-hub" remote="github" />
+	<project path="kms-client" name="kms-client" remote="github" />
+	<project path="lib-platform-info" name="lib-platform-info" remote="github" />
+	<project path="lib-asset-tag-creator" name="lib-asset-tag-creator" remote="github" />
+	<project path="volume-management-library" name="volume-management-library" remote="github" />
+	<project path="workload-policy-manager" name="workload-policy-manager" remote="github" />
 
-  <project path="tpm-provider" name="tpm-provider" remote="github" />
+	<project path="lib-saml" name="lib-saml" remote="github" />
+	<project path="privacyca" name="privacyca" remote="github" />
+	<project path="trustagent" name="trustagent" remote="github" />
+	<project path="workload-agent" name="workload-agent" remote="github" />
+	<project path="flavor" name="flavor" remote="github" />
 
+	<project path="lib-tpm-provider" name="lib-tpm-provider" remote="github" />
+	<project path="lib-common" name="lib-common" remote="github" />
+	<project path="verifier" name="verifier" remote="github" />
+	<project path="secure-docker-daemon" name="secure-docker-daemon" remote="github" />
+	<project path="lib-flavor" name="lib-flavor" remote="github" />
+	<project path="k8s-extensions" name="k8s-extensions" remote="github" />
+	<project path="mtwilson-client" name="mtwilson-client" remote="github" />
+	<project path="lib-verifier" name="lib-verifier" remote="github" />
+	<project path="key-broker-service" name="key-broker-service" remote="github" />
+	<project path="certificate-management-service" name="certificate-management-service" remote="github" />
+	<project path="lib-privacyca" name="lib-privacyca" remote="github" />
+	<project path="lib-asset-tag-provisioner" name="lib-asset-tag-provisioner" remote="github" />
+	<project path="external-artifacts" name="external-artifacts" remote="github" />
+	<project path="contrib" name="contrib" remote="github" />
+	<project path="common" name="common" remote="github" />
+	<project path="tpm-tools-windows" name="tpm-tools-windows" remote="github" />
+	<project path="common-java" name="common-java" remote="github" />
+	<project path="clients" name="clients" remote="github" />
+	<project path="secure-docker-plugin" name="secure-docker-plugin" remote="github" />
+	<project path="platform-info" name="platform-info" remote="github" />
+	<project path="k8s-custom-controller" name="k8s-custom-controller" remote="github" />
+	<project path="tpm" name="tpm" remote="github" />
+	<project path="lib-workload-measurement" name="lib-workload-measurement" remote="github" />
+	<project path="tboot-xm" name="tboot-xm" remote="github" />
+	<project path="aas-manager" name="aas-manager" remote="github" />
+	<project path="k8s-extended-scheduler" name="k8s-extended-scheduler" remote="github" />
 </manifest>
